@@ -1,0 +1,61 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/monitering.png</file>
+        <file>images/machine.png</file>
+        <file>images/setting.png</file>
+        <file>images/add.png</file>
+        <file>images/delete.png</file>
+        <file>images/edit.png</file>
+        <file>images/ipcamera.png</file>
+        <file>images/monitoring_area.png</file>
+        <file>images/camera_1_1.png</file>
+        <file>images/camera_2_2.png</file>
+        <file>images/camera_3_3.png</file>
+        <file>images/camera_4_4.png</file>
+        <file>images/camera_none.png</file>
+        <file>font/PNRGamSo.TTF</file>
+        <file>images/camera_close_down.png</file>
+        <file>images/camera_close_normal.png</file>
+        <file>images/camera_close_up.png</file>
+        <file>images/camera_maximum_down.png</file>
+        <file>images/camera_maximum_normal.png</file>
+        <file>images/camera_maximum_up.png</file>
+        <file>images/camera_tile_down.png</file>
+        <file>images/camera_tile_normal.png</file>
+        <file>images/camera_tile_up.png</file>
+        <file>images/next.png</file>
+        <file>images/prev.png</file>
+        <file>images/black.png</file>
+        <file>images/image.png</file>
+        <file>images/folder.png</file>
+        <file>images/process.png</file>
+        <file>images/check.png</file>
+        <file>images/add batch.png</file>
+        <file>images/add single file.png</file>
+        <file>images/file - Copy.png</file>
+        <file>images/empty.png</file>
+        <file>images/ipcamera_disable.png</file>
+        <file>images/machine_disable.png</file>
+        <file>images/machine_disable1.png</file>
+        <file>images/ipcamera_disable1.png</file>
+        <file>images/search.png</file>
+        <file>images/log.png</file>
+        <file>sound/warning.mp3</file>
+        <file>sound/warning.wav</file>
+        <file>images/backward.png</file>
+        <file>images/first.png</file>
+        <file>images/forward.png</file>
+        <file>images/last.png</file>
+        <file>images/next1.png</file>
+        <file>images/prev1.png</file>
+        <file>images/about.png</file>
+        <file>images/easen_mark.png</file>
+        <file>images/file.png</file>
+        <file>images/export.png</file>
+        <file>images/import.png</file>
+        <file>images/send.png</file>
+        <file>sound/safe.wav</file>
+        <file>images/security.png</file>
+        <file>images/checkmark.png</file>
+    </qresource>
+</RCC>
